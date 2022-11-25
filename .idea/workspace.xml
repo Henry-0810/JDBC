@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb891d9e-0214-44dd-b0e1-49c8a09e8bc6" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlbumManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VanillaMovieManager7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/t00229172/Downloads/ojdbc7.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/t00229172/Downloads/ojdbc7.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\t00229172\IdeaProjects\JDBC\src" />
@@ -69,23 +68,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlbumManager">
-    <configuration name="AlbumManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlbumManager" />
+  <component name="RunManager" selected="Application.VanillaMovieManager3">
+    <configuration name="MyMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyMusic" />
       <module name="JDBC" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VanillaMovieManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager" />
+    <configuration name="VanillaMovieManager3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager3" />
       <module name="JDBC" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VanillaMovieManager2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager2" />
+    <configuration name="VanillaMovieManager5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager5" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VanillaMovieManager6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager6" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VanillaMovieManager7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VanillaMovieManager7" />
       <module name="JDBC" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,9 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlbumManager" />
-        <item itemvalue="Application.VanillaMovieManager2" />
-        <item itemvalue="Application.VanillaMovieManager" />
+        <item itemvalue="Application.VanillaMovieManager3" />
+        <item itemvalue="Application.MyMusic" />
+        <item itemvalue="Application.VanillaMovieManager7" />
+        <item itemvalue="Application.VanillaMovieManager6" />
+        <item itemvalue="Application.VanillaMovieManager5" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +123,17 @@
       <option name="presentableId" value="Default" />
       <updated>1668763477880</updated>
       <workItem from="1668763479275" duration="3638000" />
+      <workItem from="1669367452031" duration="182000" />
+      <workItem from="1669367782374" duration="4383000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1669367581320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669367581320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
